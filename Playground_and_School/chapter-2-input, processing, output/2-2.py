@@ -1,0 +1,1 @@
+salesTotal = input("Enter Sales: ")
