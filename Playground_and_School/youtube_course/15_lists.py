@@ -7,5 +7,3 @@ print(type(einkaufszettel[2])) # Damit kann ich den Typ auslesen
 print(einkaufszettel[2]) #Gibt Tacos aus. Wie beim Slicing zählen.
 print(einkaufszettel[2][3]) #Gibt o aus. Dritter Buchstabe von Tacos.
 
-einkaufszettel.append("Nüsse") # Setzt Nüsse ganz hinten an die Liste.
-print(einkaufszettel)
