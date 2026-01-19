@@ -1,3 +1,5 @@
+#for = „für jedes Element“
+#while = „solange wie“
 
 # While schleifen läufen unendlich, bis false herauskommt.
 # Diese While schleife würde unendlich 0 printen:
